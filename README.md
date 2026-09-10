@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Greg
+# Hi, I’m Greg
 
 I’m a product + engineering leader who’s spent most of my career helping technical companies build products people love using - and continue to rely on.  
 
@@ -8,7 +8,7 @@ Recently, I’ve been getting back closer to the tools — rebuilding my hands-o
 
 ---
 
-## 🧭 What I Do
+## What I Do
 
 By day (and for most of my career), I’ve worked across:
 
@@ -28,17 +28,17 @@ I think strong organizations are built when leaders stay connected to the work, 
 
 ---
 
-## 🔧 What I’m Working On Now
+## What I’m Working On Now
 
 This GitHub is where I’m sharpening the edge again.
 
 Current focus areas:
 
-- 🐍 Python (automation, data, tooling)
-- ⚙️ Embedded C/C++ (microcontrollers, Raspberry Pi)
-- 🔌 Electronics fundamentals + schematic design
-- 🧠 System architecture thinking (how things actually fit together)
-- 🤖 Using AI as a force multiplier for engineering work
+- Python (automation, data, tooling)
+- Embedded C/C++ (microcontrollers, Raspberry Pi)
+- Electronics fundamentals + schematic design
+- System architecture thinking (how things actually fit together)
+- Using AI as a force multiplier for engineering work
 
 You’ll find a mix of:
 - small experiments
@@ -48,7 +48,7 @@ You’ll find a mix of:
 
 ---
 
-## 🏗️ Projects You’ll See Here
+## Projects You’ll See Here
 
 I’m less interested in “toy problems” and more interested in:
 
@@ -65,7 +65,7 @@ Expect projects around:
 
 ---
 
-## 🧠 How I Think About Building
+## How I Think About Building
 
 A few principles I tend to operate from:
 
@@ -77,7 +77,7 @@ A few principles I tend to operate from:
 
 ---
 
-## 🎯 What I’m Interested In
+## What I’m Interested In
 
 I’m especially interested in:
 
@@ -88,14 +88,14 @@ I’m especially interested in:
 
 ---
 
-## ⚡ Fun facts about me
+## Fun facts about me
 - I started and run the FIRST LEGO Robotics club at my kids' school
 - I love being outdoors — running, backpacking, kayaking, archery, and trying to tire out a lab
 - When I was in 6th grade, my grandpa took me to NASA, where my uncle was an engineer on the International Space Station. That’s when I knew I wanted to be an engineer.
 
 ---
 
-## 🤝 Let’s Connect
+## Let’s Connect
 
 If you’re:
 - building something interesting  
